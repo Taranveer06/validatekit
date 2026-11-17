@@ -1,5 +1,5 @@
 {
-  "name": "validatekit",
+  "name": "@taranveer_singh/validatekit",
   "version": "1.0.0",
   "description": "A lightweight, zero-dependency JavaScript validation library for objects and forms.",
   "main": "index.js",

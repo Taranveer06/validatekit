@@ -24,7 +24,7 @@ Designed to be simple, predictable, and easy to understand without any complex a
 Install via npm:
 
 ```bash
-npm install validatekit
+npm install @taranveer_singh/validatekit
 ```
 
 ---
@@ -32,7 +32,7 @@ npm install validatekit
 ## Quick Start
 
 ```javascript
-const { validate, rules } = require("validatekit");
+const { validate, rules } = require("@taranveer_singh/validatekit");
 
 // 1. Define your validation schema
 const userSchema = {
@@ -202,7 +202,7 @@ ValidateKit works cleanly as request validation middleware:
 
 ```javascript
 const express = require("express");
-const { validate, rules } = require("validatekit");
+const { validate, rules } = require("@taranveer_singh/validatekit");
 
 const app = express();
 app.use(express.json());
