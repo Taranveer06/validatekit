@@ -16,6 +16,14 @@
   ],
   "author": "Taranveer Singh",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taranveer06/validatekit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Taranveer06/validatekit/issues"
+  },
+  "homepage": "https://github.com/Taranveer06/validatekit#readme",
   "engines": {
     "node": ">=18.0.0"
   },
