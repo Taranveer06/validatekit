@@ -1,0 +1,30 @@
+{
+  "name": "validatekit",
+  "version": "1.0.0",
+  "description": "A lightweight, zero-dependency JavaScript validation library for objects and forms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "schema",
+    "form-validation",
+    "input-validation",
+    "object-validation"
+  ],
+  "author": "Taranveer Singh",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "index.js",
+    "validator.js",
+    "rules.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
+
